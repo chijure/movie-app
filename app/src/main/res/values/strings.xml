@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="empty">No se encontraron coincidencias</string>
+    <string name="not_found">No se encontro</string>
+</resources>
